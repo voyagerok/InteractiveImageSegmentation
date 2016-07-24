@@ -21,3 +21,9 @@ Makefile.in
 /config.status
 /config.log
 /config.guess
+
+# eclipse project files
+.settings/**
+/.project
+/.cproject
+/.autotools
